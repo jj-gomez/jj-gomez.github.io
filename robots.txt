@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://jj-gomez.github.io/sitemap.xml
