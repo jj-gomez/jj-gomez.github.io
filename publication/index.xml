@@ -1,54 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Academic</title>
-    <link>https://jj-gomez.github.io//publication/</link>
-      <atom:link href="https://jj-gomez.github.io//publication/index.xml" rel="self" type="application/rss+xml" />
+    <title>Publications | Juan José Gómez</title>
+    <link>https://jj-gomez.github.io/publication/</link>
+      <atom:link href="https://jj-gomez.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jj-gomez.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://jj-gomez.github.io/media/icon_hue24a3785007e3fafa1d711e08ad53267_364851_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
-      <link>https://jj-gomez.github.io//publication/</link>
+      <link>https://jj-gomez.github.io/publication/</link>
     </image>
     
     <item>
       <title>EndoMapper dataset of complete calibrated endoscopy procedures</title>
-      <link>https://jj-gomez.github.io//publication/endomapper/</link>
+      <link>https://jj-gomez.github.io/publication/endomapper/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://jj-gomez.github.io//publication/endomapper/</guid>
+      <guid>https://jj-gomez.github.io/publication/endomapper/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tracking monocular camera pose and deformation for SLAM inside the human body</title>
-      <link>https://jj-gomez.github.io//publication/bodytracker/</link>
+      <link>https://jj-gomez.github.io/publication/bodytracker/</link>
       <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://jj-gomez.github.io//publication/bodytracker/</guid>
+      <guid>https://jj-gomez.github.io/publication/bodytracker/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Direct and Sparse Deformable Tracking</title>
-      <link>https://jj-gomez.github.io//publication/dsdt/</link>
+      <link>https://jj-gomez.github.io/publication/dsdt/</link>
       <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://jj-gomez.github.io//publication/dsdt/</guid>
+      <guid>https://jj-gomez.github.io/publication/dsdt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SD-DefSLAM: Semi-Direct Monocular SLAM for Deformable and Intracorporeal Scenes</title>
-      <link>https://jj-gomez.github.io//publication/sd/</link>
+      <link>https://jj-gomez.github.io/publication/sd/</link>
       <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://jj-gomez.github.io//publication/sd/</guid>
+      <guid>https://jj-gomez.github.io/publication/sd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM</title>
-      <link>https://jj-gomez.github.io//publication/orbslam/</link>
+      <link>https://jj-gomez.github.io/publication/orbslam/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://jj-gomez.github.io//publication/orbslam/</guid>
+      <guid>https://jj-gomez.github.io/publication/orbslam/</guid>
       <description></description>
     </item>
     

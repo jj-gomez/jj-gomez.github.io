@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>camera tracking | Academic</title>
-    <link>https://jj-gomez.github.io//tag/camera-tracking/</link>
-      <atom:link href="https://jj-gomez.github.io//tag/camera-tracking/index.xml" rel="self" type="application/rss+xml" />
+    <title>camera tracking | Juan José Gómez</title>
+    <link>https://jj-gomez.github.io/tag/camera-tracking/</link>
+      <atom:link href="https://jj-gomez.github.io/tag/camera-tracking/index.xml" rel="self" type="application/rss+xml" />
     <description>camera tracking</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jj-gomez.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://jj-gomez.github.io/media/icon_hue24a3785007e3fafa1d711e08ad53267_364851_512x512_fill_lanczos_center_3.png</url>
       <title>camera tracking</title>
-      <link>https://jj-gomez.github.io//tag/camera-tracking/</link>
+      <link>https://jj-gomez.github.io/tag/camera-tracking/</link>
     </image>
     
     <item>
       <title>Tracking monocular camera pose and deformation for SLAM inside the human body</title>
-      <link>https://jj-gomez.github.io//publication/bodytracker/</link>
+      <link>https://jj-gomez.github.io/publication/bodytracker/</link>
       <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://jj-gomez.github.io//publication/bodytracker/</guid>
+      <guid>https://jj-gomez.github.io/publication/bodytracker/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Direct and Sparse Deformable Tracking</title>
-      <link>https://jj-gomez.github.io//publication/dsdt/</link>
+      <link>https://jj-gomez.github.io/publication/dsdt/</link>
       <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://jj-gomez.github.io//publication/dsdt/</guid>
+      <guid>https://jj-gomez.github.io/publication/dsdt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SD-DefSLAM: Semi-Direct Monocular SLAM for Deformable and Intracorporeal Scenes</title>
-      <link>https://jj-gomez.github.io//publication/sd/</link>
+      <link>https://jj-gomez.github.io/publication/sd/</link>
       <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://jj-gomez.github.io//publication/sd/</guid>
+      <guid>https://jj-gomez.github.io/publication/sd/</guid>
       <description></description>
     </item>
     
